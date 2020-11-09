@@ -44,4 +44,4 @@ ladder
   .down()
   .up()
   .down()
-  .showStep(); // 1
+  .showStep(); // 1 
